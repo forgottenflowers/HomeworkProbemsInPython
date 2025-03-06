@@ -1,3 +1,9 @@
+# This program prints the product of 2 matrices
+# Input is provided by user interactively, as single elements
+
+# NOTE: This code runs on Python 2 IDE
+# You can try it here: https://www.jdoodle.com/python-programming-online
+
 def go(n):
 
 	a=[[0]*n for _ in [0]*n]
