@@ -1,3 +1,6 @@
+# This program solves for the function values of the differential equation (dy/dt)=Ay
+# You want to approximate the value of y at a given t, for a given A and arbitrary step-size h.
+
 # NOTE: This code runs on Python 2 IDE
 # You can try it here: https://www.jdoodle.com/python-programming-online
 
