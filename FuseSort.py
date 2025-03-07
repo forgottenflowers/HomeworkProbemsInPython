@@ -1,3 +1,6 @@
+# This program implements the Merge Sort algorithm, which is a divide-and-conquer algorithm for sorting a list.
+# It also has a global counter to track the number of calls to the merging function (fuse).
+# It prints the sorted list and the total number of times fuse is called, which is an important metric for understanding the merge process.
 
 steps=0
 g=0
