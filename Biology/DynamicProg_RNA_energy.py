@@ -1,6 +1,5 @@
-#
+# RNA secondary structure prediction using dynamic programming
 # adds traceback functionality and energy tracking
-# visualizes the pairings and prints the energy evolution during the process
 
 def max(n1,n2,n3,n4):
 	n=n1
