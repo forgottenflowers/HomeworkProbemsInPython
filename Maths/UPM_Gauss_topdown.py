@@ -1,4 +1,4 @@
-# Transform a square matrix into an upper triangular form
+# Transform a square matrix into an upper triangular form, from top to bottom (standard Gaussian elimination order).
 
 def upm():
 	
