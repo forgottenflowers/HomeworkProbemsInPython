@@ -1,3 +1,4 @@
+# Purpose: LU decomposition + solve linear system. Solves one system Ax = b.
 # This program returns the Upper Triangular matrix, Lower Triangular matrix and the solution to the system of linear equations,
 # using Doolittle's method for LU decomposition.
 
