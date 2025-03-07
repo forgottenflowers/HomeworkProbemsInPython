@@ -1,4 +1,4 @@
-# Compute the RNA folding using dynamic programming calculations
+# RNA secondary structure prediction using dynamic programming
 
 def max(n1,n2,n3,n4):
 	n=n1
