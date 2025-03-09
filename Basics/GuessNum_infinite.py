@@ -1,3 +1,5 @@
+# User is asked to guess a specific number and forced to keep trying until they get it right.
+
 def Lowkhyaa():
 	x=int(raw_input("what is Lowkhyaa's roll number?"))
 	while  x!=20091068:
