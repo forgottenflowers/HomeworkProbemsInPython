@@ -1,3 +1,5 @@
+# Finding solution to the 3-Body problem, for Sun, Earth and Moon.
+
 import math
 from turtle import *
 
