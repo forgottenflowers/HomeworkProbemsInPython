@@ -1,6 +1,7 @@
 # Compute inverse matrix via Gauss elimination
 
 def Gauss():
+
     n = int(raw_input("Enter number of dimensions in the square matrix: "))
     print("Enter the elements of the matrix", n, "X", n)
     

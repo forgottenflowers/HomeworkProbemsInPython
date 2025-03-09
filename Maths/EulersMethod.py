@@ -17,29 +17,18 @@ def euler():
 
 	f=exp(A*t)
 
-
-	y=1
-	
+	y=1	
 	i=0
-
 	while ((i+h)<=t):
-
 		y*=1+(h*A)
-
 		i+=h
-
 
 	print "The solution is:",y
 
-
 	error=y-f
-
 	print "The error is:",error
 
-
 	eperc=(error/f)*100
-
 	print "The percentage error is:",eperc
-
 
 euler()
