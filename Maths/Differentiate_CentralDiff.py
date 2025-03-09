@@ -11,7 +11,7 @@ def a(y):
 def diff(f,x):
 
 	e=0.00000000000001
-  	# To increase accuracy, e should be small. But an extremely small e (10⁻¹⁴) could possibly lead to floating-point precision errors.
+  	# To increase accuracy, e should be small. But an extremely small e (10^(⁻7)) could possibly lead to floating-point precision errors.
   	# You may use 10^(⁻7) instead. It's more stable.
 	
  	x1=x+e
