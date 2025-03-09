@@ -1,10 +1,11 @@
+# User is asked to guess a randomly generated number and keep trying.
+# At every guess, they are given a clue whether the number is bigger or smaller, so their answer can converge.
+
 def guess():
 	import random
 
 	num=random.randint(0,100)
-
 	a=0
-
 	t=0
 
 	while a==0:
